@@ -1,16 +1,16 @@
-### Hi there 👋
+👋 Hi there, I'm Rustam. Welcome to my GitHub page!
 
-<!--
-**rustemmanafov/rustemmanafov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Let me introduce myself:
 
-Here are some ideas to get you started:
+- 🇦🇿 I'm an iOS Developer from Baku, Azerbaijan
+- 🔭 I’m currently working on Ministry of Digital Development and Transport
+- 👨🏻‍💻 I write native iOS applications using Swift
+- 🍏 I have to 1.5 years of professional experience
+- 🌱 I’m currently learning everything
+- 👯 Always looking to collaborate
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 Let's connect
+
+
+
+
